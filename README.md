@@ -4,4 +4,4 @@ its first stage server impementation with Go language
 
 //WIP
 
-Asss
+FFFFFFFF
